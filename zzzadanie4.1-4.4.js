@@ -1,4 +1,4 @@
-const myName = "Владислава"
+/* const myName = "Владислава"
 const realnost = "не"
 const programmingLanguage = "JavaScript"
 const curseCreatorName = "самогокрутогопреводавателяНикиты Михайловича"
@@ -29,3 +29,8 @@ const myinfoText = `всем привет! меня зовут ${myName}. Сей
 // let resultString = userString.slice(startSliceIndex, endSliceIndex)
 // alert(resultString)
 
+ */
+
+let r = "Nikita"
+let middleSym = r.length / 2
+console.log(r[middleSym])
